@@ -1,0 +1,1 @@
+console.log('Hell koa-static')
