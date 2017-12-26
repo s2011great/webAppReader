@@ -8,16 +8,33 @@
         <title>书城首页</title>
     </head>
     <body>
-        <div id="app">
-            <% include include/header.html %>
-            <div>
-                <% include include/index-top.html %>
-                <% include include/index-hot.html %>
-                <% include include/index-recommend.html %>
-                <% include include/index-female.html %>
-                <% include include/index-male.html %>
-                <% include include/index-free.html %>
-                <% include include/index-bottom.html %>
+        <style>
+        .container-wrap {
+            height: 100%;
+            overflow: hidden;
+            position: relative;
+        }
+        .container-scroll {
+            position: absolute;
+            top: 45px;
+            bottom: 0;
+            right: 0;
+            left: 0;
+            overflow-y: scroll;
+        }
+        </style>
+        <div id="root" style="width:734px">
+            <div class="container-wrap" id="app">
+                <% include include/header.html %>
+                <div class="container-scroll">
+                    <% include include/index-top.html %>
+                    <% include include/index-hot.html %>
+                    <% include include/index-recommend.html %>
+                    <% include include/index-female.html %>
+                    <% include include/index-male.html %>
+                    <% include include/index-free.html %>
+                    <% include include/index-bottom.html %>
+                </div>
             </div>
         </div>
     </body>

@@ -27,34 +27,18 @@
     <div>
         <div>
             <ul class="list-h5">
-                <li>
+                <li v-for="item in female" :key="item.id">
                     <div class="book-h5">
                         <div class="book-h5__cover">
-                            <img src="http://cover.read.duokan.com/mfsv2/download/fdsc3/p017io4EIZgP/tK1TkKVduNMK7w.jpg">
+                            <img alt="{{ item.title }}" :src="item.cover">
                             <p class="book-h5__finish">完结</p>
                         </div>
                         <div class="book-h5__info">
-                            <p class="book-h5__title">书名</p>
-                            <p class="book-h5__author">作者</p>
-                            <p class="book-h5__summary">简介</p>
+                            <p class="book-h5__title">{{ item.title }}</p>
+                            <p class="book-h5__author">{{ item.authors }}</p>
+                            <p class="book-h5__summary">{{ item.summary }}</p>
                             <div class="book-h5__wrap">
-                                <p class="book-h5__tag">标签</p>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-                <li>
-                    <div class="book-h5">
-                        <div class="book-h5__cover">
-                            <img src="http://cover.read.duokan.com/mfsv2/download/fdsc3/p017io4EIZgP/tK1TkKVduNMK7w.jpg">
-                            <p class="book-h5__finish">完结</p>
-                        </div>
-                        <div class="book-h5__info">
-                            <p class="book-h5__title">书名</p>
-                            <p class="book-h5__author">作者</p>
-                            <p class="book-h5__summary">简介</p>
-                            <div class="book-h5__wrap">
-                                <p class="book-h5__tag">标签</p>
+                                <p class="book-h5__tag" v-for="tag in item.tags">{{ tag }}</p>
                             </div>
                         </div>
                     </div>
