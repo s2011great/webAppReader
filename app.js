@@ -74,7 +74,7 @@ app.use(controller.get('/book', function* () {
     this.set('Cache_Control', 'no-cache')
     var params = qs.parse(this.req._parsedUrl.query)
     var id = params.id
-    this.body = yield render('book', { id: id })
+    this.body = yield render('book', { nav: '书籍详情', id: id })
 }))
 
 

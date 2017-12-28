@@ -89,13 +89,15 @@
     <ul class="book-table">
         <li v-for="item in free" :key="item.id">
             <div class="u-book">
-                <div class="book-cover">
-                    <img alt="{{ item.data.title }}" :src="item.data.book_cover">
-                    <div class="u-tagRT -freefiction"></div>
-                </div>
-                <div class="info">
-                    <h3 class="title">{{ item.data.title }}</h3>
-                </div>
+                <a href="/book?id={{ item.fiction_id }}">
+                    <div class="book-cover">
+                        <img alt="{{ item.data.title }}" :src="item.data.book_cover">
+                        <div class="u-tagRT -freefiction"></div>
+                    </div>
+                    <div class="info">
+                        <h3 class="title">{{ item.data.title }}</h3>
+                    </div>
+                </a>
             </div>
         </li>
     </ul>
