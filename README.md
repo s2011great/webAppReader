@@ -3,7 +3,7 @@
 
 ## app截图
 
-<img src="https://github.com/s2011great/webAppReader/blob/master/screenCut/1.PNG">
-<img src="https://github.com/s2011great/webAppReader/blob/master/screenCut/2.PNG">
-<img src="https://github.com/s2011great/webAppReader/blob/master/screenCut/3.PNG">
-<img src="https://github.com/s2011great/webAppReader/blob/master/screenCut/4.PNG">
+<img src="https://github.com/s2011great/webAppReader/blob/master/screenCut/1.PNG" width="400px">
+<img src="https://github.com/s2011great/webAppReader/blob/master/screenCut/2.PNG" width="400px">
+<img src="https://github.com/s2011great/webAppReader/blob/master/screenCut/3.PNG" width="400px">
+<img src="https://github.com/s2011great/webAppReader/blob/master/screenCut/4.PNG" width="400px">
