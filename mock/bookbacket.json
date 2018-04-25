@@ -1,6 +1,5 @@
 {
-	items: [
-        {
+	items: [{
 		ad: 0,
 		word_count: 999756,
 		owner: 0,
@@ -17,35 +16,30 @@
 		allow_free_read: 1,
 		rights_id: 10039,
 		channel: [
-                2
-            ],
+			2
+		],
 		updated: 1465813422,
 		finish: true,
 		tags: [
-                "现言",
-                "都市言情"
-            ],
+			"现言",
+			"都市言情"
+		],
 		price: 5,
 		chapter_count: 254,
 		authors: "莫萦",
-		categories: [
-                {
+		categories: [{
 			category_id: 100000,
 			label: "现代言情"
-                },
-                {
+		}, {
 			category_id: 100100,
 			label: "都市言情"
-                },
-                {
+		}, {
 			category_id: 18000000,
 			label: "现代言情"
-                },
-                {
+		}, {
 			category_id: 18000100,
 			label: "都市生活"
-                }
-            ],
+		}],
 		rights: "潇湘书院",
 		level: 0,
 		cover: "http://cover.read.duokan.com/mfsv2/download/s010/p017Bgr0t7WU/iYz4mtvYjzwZjO.jpg",
@@ -53,8 +47,7 @@
 		fiction_id: 46509,
 		outer_id: "53e2dde80ea497276b5a2f06",
 		latest: "番外宝贝女儿"
-        },
-        {
+	}, {
 		ad: 0,
 		word_count: 4792595,
 		owner: 0,
@@ -71,40 +64,35 @@
 		allow_free_read: 1,
 		rights_id: 10080,
 		channel: [
-                1
-            ],
+			1
+		],
 		updated: 1468301457,
 		finish: false,
 		tags: [
-                "七界武神",
-                "武魂",
-                "叶天",
-                "异世大陆",
-                "玄幻",
-                "异界大陆",
-                "玄幻奇幻"
-            ],
+			"七界武神",
+			"武魂",
+			"叶天",
+			"异世大陆",
+			"玄幻",
+			"异界大陆",
+			"玄幻奇幻"
+		],
 		price: 5,
 		chapter_count: 1536,
 		authors: "叶之凡",
-		categories: [
-                {
+		categories: [{
 			category_id: 10000,
 			label: "玄幻奇幻"
-                },
-                {
+		}, {
 			category_id: 10200,
 			label: "异世大陆"
-                },
-                {
+		}, {
 			category_id: 1000000,
 			label: "玄幻"
-                },
-                {
+		}, {
 			category_id: 1000200,
 			label: "异界大陆"
-                }
-            ],
+		}],
 		rights: "阅文集团旗下创世中文网",
 		level: 0,
 		cover: "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01DMhyt0Zkm/sf6mdPxWm06zcc.jpg",
@@ -112,8 +100,7 @@
 		fiction_id: 270794,
 		outer_id: "558233a550e3a4738f4c81d4",
 		latest: "第一千五百三十四章 圣主陨落"
-        },
-        {
+	}, {
 		ad: 0,
 		word_count: 786451,
 		owner: 0,
@@ -130,39 +117,34 @@
 		allow_free_read: 1,
 		rights_id: 20004,
 		channel: [
-                2
-            ],
+			2
+		],
 		updated: 1439007915,
 		finish: true,
 		tags: [
-                "原创",
-                "言情",
-                "爱情",
-                "古典架空",
-                "架空历史",
-                "古代言情"
-            ],
+			"原创",
+			"言情",
+			"爱情",
+			"古典架空",
+			"架空历史",
+			"古代言情"
+		],
 		price: 3,
 		chapter_count: 162,
 		authors: "碧云天",
-		categories: [
-                {
+		categories: [{
 			category_id: 110000,
 			label: "古代言情"
-                },
-                {
+		}, {
 			category_id: 110100,
 			label: "架空历史"
-                },
-                {
+		}, {
 			category_id: 17000000,
 			label: "古代言情"
-                },
-                {
+		}, {
 			category_id: 17000200,
 			label: "古典架空"
-                }
-            ],
+		}],
 		rights: "晋江文学",
 		level: 0,
 		cover: "http://cover.read.duokan.com/mfsv2/download/s010/p018NN4CqhaC/BmIs9AONWa0zsO.jpg",
@@ -170,8 +152,7 @@
 		fiction_id: 308833,
 		outer_id: "55c18acf50e3a4299f2b569c",
 		latest: "第 162 章"
-        },
-        {
+	}, {
 		ad: 0,
 		word_count: 6422470,
 		owner: 0,
@@ -188,36 +169,31 @@
 		allow_free_read: 1,
 		rights_id: 10080,
 		channel: [
-                1
-            ],
+			1
+		],
 		updated: 1468265441,
 		finish: false,
 		tags: [
-                "玄幻奇幻",
-                "玄幻",
-                "东方玄幻"
-            ],
+			"玄幻奇幻",
+			"玄幻",
+			"东方玄幻"
+		],
 		price: 5,
 		chapter_count: 2032,
 		authors: "辰东",
-		categories: [
-                {
+		categories: [{
 			category_id: 10000,
 			label: "玄幻奇幻"
-                },
-                {
+		}, {
 			category_id: 10100,
 			label: "东方玄幻"
-                },
-                {
+		}, {
 			category_id: 1000000,
 			label: "玄幻"
-                },
-                {
+		}, {
 			category_id: 1000100,
 			label: "东方玄幻"
-                }
-            ],
+		}],
 		rights: "阅文集团旗下起点中文网",
 		level: 0,
 		cover: "http://cover.read.duokan.com/mfsv2/download/s010/p01CBWdv06tQ/0wQb35pmpRhaIr.jpg",
@@ -225,8 +201,7 @@
 		fiction_id: 270644,
 		outer_id: "558142d650e3a4079d15aab3",
 		latest: "请假，暂停一天"
-        },
-        {
+	}, {
 		ad: 0,
 		word_count: 1842693,
 		owner: 0,
@@ -243,37 +218,32 @@
 		allow_free_read: 1,
 		rights_id: 10039,
 		channel: [
-                2
-            ],
+			2
+		],
 		updated: 1466750712,
 		finish: false,
 		tags: [
-                "重生之国民男神",
-                "现代言情",
-                "都市言情",
-                "都市生活"
-            ],
+			"重生之国民男神",
+			"现代言情",
+			"都市言情",
+			"都市生活"
+		],
 		price: 5,
 		chapter_count: 433,
 		authors: "水千澈",
-		categories: [
-                {
+		categories: [{
 			category_id: 100000,
 			label: "现代言情"
-                },
-                {
+		}, {
 			category_id: 100100,
 			label: "都市言情"
-                },
-                {
+		}, {
 			category_id: 18000000,
 			label: "现代言情"
-                },
-                {
+		}, {
 			category_id: 18000100,
 			label: "都市生活"
-                }
-            ],
+		}],
 		rights: "潇湘书院",
 		level: 0,
 		cover: "http://cover.read.duokan.com/mfsv2/download/s010/p01OKCgsrZfq/3IzTun8ZP3Yrud.jpg",
@@ -281,8 +251,7 @@
 		fiction_id: 317733,
 		outer_id: "569e9d8150e3a468e9b8ec23",
 		latest: "不爱你还能爱谁"
-        },
-        {
+	}, {
 		ad: 0,
 		word_count: 1441873,
 		owner: 0,
@@ -299,38 +268,33 @@
 		allow_free_read: 1,
 		rights_id: 10080,
 		channel: [
-                1
-            ],
+			1
+		],
 		updated: 1450801819,
 		finish: true,
 		tags: [
-                "升级练功",
-                "盗墓探险",
-                "盗墓",
-                "热血",
-                "灵异悬疑"
-            ],
+			"升级练功",
+			"盗墓探险",
+			"盗墓",
+			"热血",
+			"灵异悬疑"
+		],
 		price: 5,
 		chapter_count: 482,
 		authors: "南派三叔",
-		categories: [
-                {
+		categories: [{
 			category_id: 50000,
 			label: "灵异悬疑"
-                },
-                {
+		}, {
 			category_id: 50400,
 			label: "盗墓探险"
-                },
-                {
+		}, {
 			category_id: 8000000,
 			label: "灵异"
-                },
-                {
+		}, {
 			category_id: 8000300,
 			label: "悬疑探险"
-                }
-            ],
+		}],
 		rights: "阅文集团旗下起点中文网",
 		level: 0,
 		cover: "http://cover.read.duokan.com/mfsv2/download/s010/p01yfPOuJRok/dQJSYfAnD3AB42.jpg",
@@ -338,7 +302,6 @@
 		fiction_id: 270635,
 		outer_id: "5581401c50e3a4079e15a4f9",
 		latest: "《后记》下"
-        }
-    ],
+	}],
 	result: 0
 }

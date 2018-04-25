@@ -1,1 +1,1 @@
-console.log('Hell koa-static')
+alert('Hello koa static');
